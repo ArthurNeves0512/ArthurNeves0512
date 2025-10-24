@@ -1,9 +1,9 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <p align="center" >
   <samp>
-    Meu nome é <em>Arthur</em>. Eu sou um programador Full Stack e faço estagio no Tribunal Superior Eleitoral
-  <br/>  entusiasta em Robótica, Visão Computacional, Machine Learning, Hardware, gosto de muito um pouco
+    Meu nome é <em>Arthur</em>. Eu sou um programador Backend e de firmware.Participo de uma equipe de competição robôs autônomos da minha univerisade.
+  <br/>  sou um entusiasta em Robótica, Visão Computacional, Machine Learning e desenvolvimento de jogos, gosto de tudo um pouco.
 
   </samp>
   <br/>
